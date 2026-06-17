@@ -1,8 +1,6 @@
 # Hi, I'm Premraj Shetty! 👋
 ### Aspiring Data Analyst | SQL • Excel • Power BI
 
----
-
 ## About Me
 -  BCA Graduate from St Aloysius College, Mangalore, Karnataka
 -  Passionate about transforming raw data into actionable business insights
@@ -70,6 +68,5 @@
 - **Open to:** Data Analyst, MIS Analyst, BI Analyst, Reporting Analyst roles
 - **Location:** Mangalore, Karnataka, India
 
----
 
 **If you find my projects helpful, please star the repositories!**
