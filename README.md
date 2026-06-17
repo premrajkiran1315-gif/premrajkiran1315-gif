@@ -1,11 +1,11 @@
 # Hi, I'm Premraj Shetty! 👋
-### Aspiring Data Analyst | SQL • Excel • Power BI
+### Data Analyst | SQL • Excel • Power BI
 
 ## About Me
 -  BCA Graduate from St Aloysius College, Mangalore, Karnataka
 -  Passionate about transforming raw data into actionable business insights
 -  Experienced in end-to-end data analysis — from data cleaning to dashboard creation
--  Built projects analyzing **80,000+ rows** of real-world business data
+-  Built data analysis Project Using **80,000+ rows** of real-world business data
 -  Currently learning Statistics, GitHub, and advancing SQL skills
 -  Actively looking for **Data Analyst / MIS Analyst / BI Analyst** roles
 
@@ -24,8 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
 ## Featured Projects
 
 ### Pizza Sales Analysis | SQL + Power BI
@@ -35,7 +33,7 @@
 - Total Revenue: **$817.86K** across **21,350 orders**
 - Top Category: **Classic (26.91%)** | Top Size: **Large (45.89%)**
 - Peak Period: **January & July** | Peak Days: **Weekends & Fridays**
-- Tools: MySQL + Power BI (2-page interactive dashboard)
+- Tools: MySQL + Excel + Power BI (2-page interactive dashboard)
 
  [View Project](https://github.com/premrajkiran1315-gif/SQl-and-PowerBI-Projects)
 
@@ -69,4 +67,4 @@
 - **Location:** Mangalore, Karnataka, India
 
 
-**If you find my projects helpful, please star the repositories!**
+**Feel free to explore my projects and connect with me for collaboration or opportunities.**
