@@ -49,7 +49,7 @@
 - Delivery Success Rate: **92%**
 - Tools: Excel (Pivot Tables, Slicers, Charts)
 
- [View Project](https://github.com/premrajkiran1315-gif/Vrinda-Store-Analysis)
+ [View Project](https://github.com/premrajkiran1315-gif/Excel_project)
 
 ### Madhavan E-Commerce Dashboard | Power BI
 > Built an interactive Power BI dashboard analyzing 
