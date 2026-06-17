@@ -61,7 +61,7 @@
 - Top Payment: **Cash on Delivery (44%)**
 - Tools: Power BI (KPI Cards, Slicers, Charts)
 
- [View Project](https://github.com/premrajkiran1315-gif/Madhavan-Ecommerce)
+ [View Project](https://github.com/premrajkiran1315-gif/Power-BI_Project)
 
 ## Let's Connect!
 - **Email:** premrajkiran1315@gmail.com
