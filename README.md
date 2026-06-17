@@ -35,7 +35,7 @@
 - Peak Period: **January & July** | Peak Days: **Weekends & Fridays**
 - Tools: MySQL + Excel + Power BI (2-page interactive dashboard)
 
- [View Project](https://github.com/premrajkiran1315-gif/SQl-and-PowerBI-Projects)
+ [View Project](https://github.com/premrajkiran1315-gif/SQL-and-PowerBI-Projects)
 
 ### Vrinda Store Annual Sales Analysis | Excel
 > Analyzed 31,000+ rows of e-commerce data to identify 
