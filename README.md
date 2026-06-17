@@ -72,4 +72,4 @@
 
 ---
 
-⭐ **If you find my projects helpful, please star the repositories!**
+**If you find my projects helpful, please star the repositories!**
