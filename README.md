@@ -67,4 +67,4 @@
 - **Location:** Mangalore, Karnataka, India
 
 
-**Feel free to explore my projects and connect with me for collaboration or opportunities.**
+**Feel free to connect with me if you'd like to discuss data analytics, projects, or career opportunities.**
